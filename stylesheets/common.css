@@ -1,0 +1,18 @@
+/* 全ページ共通のCSSを記述 */
+
+/* PC用 */
+.container {
+  max-width: 980px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+/* タブレット用 */
+@media (max-width: 960px) {
+
+}
+
+/* スマートフォン用 */
+@media (max-width: 600px) {
+
+}

@@ -1,0 +1,14 @@
+/* index.html用のCSSを記述 */
+
+/* PC用 */
+
+
+/* タブレット用 */
+@media (max-width: 960px) {
+
+}
+
+/* スマートフォン用 */
+@media (max-width: 600px) {
+
+}
